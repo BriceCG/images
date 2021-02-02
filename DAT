@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:34:00.603Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IfF80DsiZ_cR5y99mehe" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:37:28.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZU6KNY88X1JG0STNaRfC" version="14.2.9" type="github">
   <diagram id="bZjX8X6OpOufBY6_Tcms" name="Page-1">
     <mxGraphModel dx="1041" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,15 @@
         </mxCell>
         <mxCell id="9A-5t1lC-3uWXTzlElth-6" value="Données JSON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9A-5t1lC-3uWXTzlElth-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Serveur Odoo&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9A-5t1lC-3uWXTzlElth-8" value="Données JSON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="577" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9A-5t1lC-3uWXTzlElth-9" value="ORM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="662" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
