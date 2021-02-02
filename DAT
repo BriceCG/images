@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:08:30.692Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="22XVfQh5oGNrf3GVoR-C" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:22:01.772Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J2C981s2tzP-pEF1g2Z8" version="14.2.9" type="github">
   <diagram id="bZjX8X6OpOufBY6_Tcms" name="Page-1">
     <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CeVoW0-9cYPQLw2sNx70-2" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="20" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CeVoW0-9cYPQLw2sNx70-3" value="Serveur Node JS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="CeVoW0-9cYPQLw2sNx70-6" value="Serveur Node JS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CeVoW0-9cYPQLw2sNx70-4" value="Serveur Odoo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="CeVoW0-9cYPQLw2sNx70-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="122" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CeVoW0-9cYPQLw2sNx70-5" value="Base de donnée&amp;nbsp;&lt;br&gt;PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="CeVoW0-9cYPQLw2sNx70-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="124" width="40" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
