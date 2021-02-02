@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T09:11:31.621Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hRW-C66TYQZfvt0G1CO8" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T09:11:52.847Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WREsX2NtueFBonExkMEq" version="14.2.9" type="github">
   <diagram id="bZjX8X6OpOufBY6_Tcms" name="Page-1">
     <mxGraphModel dx="801" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="523" y="670" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SFSk9ZsmdVScrzJhdrC8-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/APK_format_icon.png/130px-APK_format_icon.png;" vertex="1" parent="1">
-          <mxGeometry x="470" y="86" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="71" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
