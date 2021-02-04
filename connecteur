@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T09:01:47.703Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Rkgruv8cT2oz5LZONaDI" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T09:39:18.707Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ya2QcsTTdberKuVYReaH" version="14.2.9" type="github">
   <diagram id="Wg5h2pctQgxK0A5AAotQ" name="Page-1">
     <mxGraphModel dx="942" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="VFqHcYQTIKWvXZ442AvL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFqHcYQTIKWvXZ442AvL-10" target="VFqHcYQTIKWvXZ442AvL-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VFqHcYQTIKWvXZ442AvL-10" value="Instance Serveur Odoo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="VFqHcYQTIKWvXZ442AvL-10" value="&amp;nbsp;Instance&lt;br&gt;Serveur Odoo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFqHcYQTIKWvXZ442AvL-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;Authentification&amp;nbsp;&lt;br&gt;&lt;/font&gt;serveur Odoo&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -24,11 +24,11 @@
             <mxPoint x="200" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFqHcYQTIKWvXZ442AvL-16" value="Objet&lt;br&gt;ORM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="VFqHcYQTIKWvXZ442AvL-16" value="Objet&lt;br&gt;ORM&lt;br&gt;depuis Node" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VFqHcYQTIKWvXZ442AvL-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Appel fonction &lt;br&gt;&amp;nbsp;&lt;/span&gt;ORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="100" height="40" as="geometry" />
+        <mxCell id="VFqHcYQTIKWvXZ442AvL-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Appel fonction &lt;br&gt;&amp;nbsp;&lt;/span&gt;ORM depuis Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VFqHcYQTIKWvXZ442AvL-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Connection&amp;nbsp;&lt;br&gt;base de donnée&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="120" height="40" as="geometry" />
